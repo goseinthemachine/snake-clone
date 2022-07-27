@@ -1,8 +1,8 @@
-#devid=myname
-#devtitle=My Name
-#gameid=mygame
-#gametitle=My Game
-#version=0.1
+devid=goseinthemachine
+devtitle=Cameron Gose
+gameid=snake-clone
+gametitle=Snake Clone
+version=1.0
 #icon=metadata/icon.png
 
 # Uncomment the entry below to bytecode compile your Ruby code (Pro License Only)
